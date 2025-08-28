@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "*.tmpl": "html",
+        "stdlib.h": "c"
+    }
+}
